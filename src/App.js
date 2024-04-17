@@ -9,6 +9,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <video width="100%" height="240" controls muted webkit-playsinline>
+          <source src="https://sugiapp-web.stg.sugi-ds.com/contents/t3-new/image/volume-shine/volume-shine.mp4" type="video/mp4"></source>
+        </video>
         <a
           className="App-link"
           href="https://reactjs.org"
