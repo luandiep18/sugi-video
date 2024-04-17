@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <video width="100%" height="240" controls playsinline webkit-playsinline>
-          <source src="https://sugiapp-web.stg.sugi-ds.com/contents/t3-new/image/volume-shine/volume-shine.mp4#t=0" type="video/mp4"></source>
+          <source src="https://sugiapp-web.stg.sugi-ds.com/contents/t3-new/image/volume-shine/volume-shine.mp4#t=0.001" type="video/mp4"></source>
         </video>
         <a
           className="App-link"
